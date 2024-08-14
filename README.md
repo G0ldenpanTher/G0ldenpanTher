@@ -1,3 +1,4 @@
+![logo](https://github.com/G0ldenpanTher/G0ldenpanTher/blob/main/2%20copy.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
