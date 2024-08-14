@@ -2,9 +2,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="[https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&width=435&lines=%F0%9F%9A%80Hi+There!+;I'm+GoldenPanther+%F0%9F%91%BE+;A+passionate+software+developer%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG)" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2970&pause=998&background=2F5BFF00&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Hi+There!+;Welcome+To+My+GitHub+Profile%F0%9F%99%8F" alt="Typing SVG" /></a>
 </h1>
-
 <br/>
 
 <div align="center">
@@ -30,8 +29,7 @@
 
 <br/>
 
-<h1 align="center">Hi 👋, I'm Vishnu Vardhan Tumula</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
