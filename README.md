@@ -1,4 +1,4 @@
-![logo]([https://github.com/G0ldenpanTher/G0ldenpanTher/blob/main/2%20copy.png](https://github.com/G0ldenpanTher/G0ldenpanTher/blob/main/3.pnghttps://github.com/G0ldenpanTher/G0ldenpanTher/blob/main/3.png))
+![logo](https://github.com/G0ldenpanTher/G0ldenpanTher/edit/main/README.md))
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
